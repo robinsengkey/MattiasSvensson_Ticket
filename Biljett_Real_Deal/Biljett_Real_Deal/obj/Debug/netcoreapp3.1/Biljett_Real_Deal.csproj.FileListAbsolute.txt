@@ -1,0 +1,13 @@
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.exe
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.deps.json
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.runtimeconfig.json
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.runtimeconfig.dev.json
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.dll
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.pdb
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.csprojAssemblyReference.cache
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.AssemblyInfoInputs.cache
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.AssemblyInfo.cs
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.csproj.CoreCompileInputs.cache
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.dll
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.pdb
+C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.genruntimeconfig.cache

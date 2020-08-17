@@ -230,6 +230,14 @@ namespace Biljett_Real_Deal
 
         private void KonsertStats() //Ger stats om Konserter
         {
+
+            /*
+             * Robin:
+             * 
+             * Återställer inte variablerna som räknar antalet biljetter, så varjegång man kör 
+             * KonsertStats() så ökar antalet. Variablerna borde kanske ligga inne i metoden
+             * här och inte ligga globalt i klassen.
+             */
             foreach (Kund k in kundLista) //Kollar varje "kund" i "kundLista" och sorterar de baserat på vilken konsert deras biljett är för
             {
                 if (k.konsert == "playboi carti")
@@ -338,6 +346,16 @@ namespace Biljett_Real_Deal
 
 
         }
+
+        /*
+         * Robin:
+         * 
+         * Återköp() är väldigt lång. Jag gillar inte att det är copy-paste kod.
+         * Hade varit bättre att låta användaren skriva in både konsert och numer först,
+         * och sedan loopa igenom listan en gång för att hitta rätt biljett. 
+         * 
+         * Återköp() ändrar inte datan i den sparade filen. 
+         */
 
         void Återköp() //Gör så att kunden kan få ett återköp genom att specificera konserten + order nummret
         {

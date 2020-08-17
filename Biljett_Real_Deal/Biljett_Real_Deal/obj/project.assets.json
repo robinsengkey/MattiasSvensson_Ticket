@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Matte\\.nuget\\packages\\": {}
+    "C:\\Users\\Robin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matte\\source\\repos\\Biljett_Real_Deal\\Biljett_Real_Deal\\Biljett_Real_Deal.csproj",
+      "projectUniqueName": "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\InlämningarTicketSales\\MattiasSvensson_Ticket\\Biljett_Real_Deal\\Biljett_Real_Deal\\Biljett_Real_Deal.csproj",
       "projectName": "Biljett_Real_Deal",
-      "projectPath": "C:\\Users\\Matte\\source\\repos\\Biljett_Real_Deal\\Biljett_Real_Deal\\Biljett_Real_Deal.csproj",
-      "packagesPath": "C:\\Users\\Matte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matte\\source\\repos\\Biljett_Real_Deal\\Biljett_Real_Deal\\obj\\",
+      "projectPath": "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\InlämningarTicketSales\\MattiasSvensson_Ticket\\Biljett_Real_Deal\\Biljett_Real_Deal\\Biljett_Real_Deal.csproj",
+      "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\InlämningarTicketSales\\MattiasSvensson_Ticket\\Biljett_Real_Deal\\Biljett_Real_Deal\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Matte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,18 +57,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

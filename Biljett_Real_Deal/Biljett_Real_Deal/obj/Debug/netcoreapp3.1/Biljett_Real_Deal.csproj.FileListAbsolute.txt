@@ -11,3 +11,16 @@ C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcor
 C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.dll
 C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.pdb
 C:\Users\Matte\source\repos\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.genruntimeconfig.cache
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.exe
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.deps.json
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.runtimeconfig.json
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.dll
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\bin\Debug\netcoreapp3.1\Biljett_Real_Deal.pdb
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.csprojAssemblyReference.cache
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.AssemblyInfo.cs
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.dll
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.pdb
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\MattiasSvensson_Ticket\Biljett_Real_Deal\Biljett_Real_Deal\obj\Debug\netcoreapp3.1\Biljett_Real_Deal.genruntimeconfig.cache
